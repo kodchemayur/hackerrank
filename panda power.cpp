@@ -9,17 +9,7 @@ using namespace std;
 #define ll long long int
 #define FOR(i,a,b) for(i= (int )a ; i < (int )b ; ++i)
 #define rep(i,n) FOR(i,0,n)
-#define INF INT_MAX
-#define pb push_back
-#define max(a,b) ((a)>(b)?(a):(b))
-#define min(a,b) ((a)<(b)?(a):(b))
-#define pi(n) printf("%d ",n)
-#define pd(n) printf("%lf ",n)
-#define pdl(n) printf("%lf\n",n)
-#define pin(n) printf("%d\n",n)
-#define pl(n) printf("%lld",n)
-#define pln(n) printf("%lld\n",n)
-#define si(n) scanf("%d",&n)
+#define INF INT_M
 #define sl(n) scanf("%lld",&n)
 #define scan(v,n) vector<int> v;rep(i,n){ int j;si(j);v.pb(j);}
 #define mod (int)(1e9 + 7)
